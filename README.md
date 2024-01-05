@@ -2,6 +2,9 @@
 
 Welcome to the Memory Game project! Test your memory by finding matching pairs of cards. Have fun and challenge yourself!
 
+## live link
+link - https://viraj-ramdin-dev.github.io/Memory-Game/
+
 ## Demo
 ![Screenshot (956)](https://github.com/viraj-ramdin-dev/Memory-Game/assets/71839277/a070e4bc-77fc-4f42-9b9a-a27d9d136639)
 
